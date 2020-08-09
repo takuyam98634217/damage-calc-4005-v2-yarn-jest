@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/takuyam98634217/damage-calc-4005-v2-yarn-jest/tree/master.svg?style=svg)](https://circleci.com/gh/takuyam98634217/damage-calc-4005-v2-yarn-jest/tree/master)
+
 # damage-calc
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
